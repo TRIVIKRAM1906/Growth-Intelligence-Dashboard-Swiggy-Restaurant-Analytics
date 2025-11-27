@@ -54,6 +54,9 @@ Power BI Map Visuals	Geo-spatial Growth Mapping
 GitHub	Project Documentation & Portfolio Sharing
 📊 Dashboard Preview
 
+(Add your image here)
+![Dashboard Preview](<img width="1504" height="811" alt="Screenshot 2025-11-27 210206" src="https://github.com/user-attachments/assets/cfce4772-3b01-4e1f-8a97-2c48eec2e06d" />
+)
 
 
 🚀 Business Impact
